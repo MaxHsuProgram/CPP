@@ -1,6 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
-ios::sync_with_stdio(false);
 int main ()
 {
     int a , b , c = 0;
