@@ -1,23 +1,23 @@
-// prog6_5, ¨S¦³¶Ç¦^­Èªº¨ç¼Æ
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-void myprint(int,char);       	// ¨ç¼Æ­ì«¬ªº«Å§i 
+void myprint(int,char);       	//å‡½æ•¸åŽŸåž‹çš„å®£å‘Š
 int main(void)
 {
    int a=6;
    char ch='%';
-   myprint(a,ch);		  	// ©I¥s¦Û­qªº¨ç¼Æ¡A¦L¥Xa­Ó¦r¤¸ 
+   myprint(a,ch);		  	 
    cout << "Printed!!" << endl;
    system("pause");
    return 0;
 }
 
-void myprint(int n,char c) 	// ¦Û­qªº¨ç¼Æmyprint()
+
+void myprint(int n,char c) 	
 {
    int i;
    for(i=1;i<=n;i++)
-      cout << c;				// ¦L¥X¦r¤¸
+      cout << c;				
    cout << endl;
    return;
 }

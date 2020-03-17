@@ -1,21 +1,20 @@
-// prog6_7, 跋办跑计
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-void func(void);                           // ㄧ计 
+void func(void);                           
 int main(void)
 {
-   auto int a=10;
-   cout << "In Main(),a=" << a << endl;	   // main()いa
-   func();		                           // ㊣璹ㄧ计
-   cout << "In Main(),a=" << a << endl;	   // a
+   auto int a = 10;
+   cout << "In Main(),a=" << a << endl;	   
+   func();		                           
+   cout << "In Main(),a=" << a << endl;	    
    system("pause");
    return 0;
 }
 
-void func(void)	                           // 璹ㄧ计func()
+void func(void)	                          
 {
    int a=30;
-   cout << "In func(),a=" << a << endl;   // func()いa
+   cout << "In func(),a=" << a << endl;   
    return;
 }
