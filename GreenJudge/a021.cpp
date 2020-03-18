@@ -4,8 +4,9 @@ int main ()
 {
     int n;
     cin >> n;
-    while ( ( n % 2 ) == 1 )
+    while ( ( n % 2 ) != 1 )
     {
         n = n / 2;
     }
+    cout << n << endl;
 }
