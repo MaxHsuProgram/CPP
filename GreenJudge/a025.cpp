@@ -8,6 +8,9 @@ int main ()
     {
         a = n % 10;
         n = n / 10;
-        cout << a;
+        if(a != 0)
+        {
+            cout << a;
+        }
     }
 }
