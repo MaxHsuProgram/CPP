@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T07:01:18.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5_SaIX4GzDZmUpeqqotb" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T07:19:10.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2Kz3_Tnp-Bn35L0B23GE" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="xyvIUoPjEU1cUyFH0Wo2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Joh2zUDe8erHZaV8rCQM-0" target="Joh2zUDe8erHZaV8rCQM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Joh2zUDe8erHZaV8rCQM-0" value="開始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="60" width="100" height="60" as="geometry" />
+        <mxCell id="Joh2zUDe8erHZaV8rCQM-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;開始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xyvIUoPjEU1cUyFH0Wo2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Joh2zUDe8erHZaV8rCQM-1" target="Joh2zUDe8erHZaV8rCQM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Joh2zUDe8erHZaV8rCQM-1" value="宣告增廣矩陣的十二個元為浮點數，並設值為0。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="160" width="100" height="100" as="geometry" />
+        <mxCell id="Joh2zUDe8erHZaV8rCQM-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;宣告增廣矩陣的十二個元為浮點數，並設值為0。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="130" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xyvIUoPjEU1cUyFH0Wo2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Joh2zUDe8erHZaV8rCQM-2" target="s9bqM9FualGB4ly2KAmc-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Joh2zUDe8erHZaV8rCQM-2" value="依序輸入各個元的值" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.30000000000000004;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Joh2zUDe8erHZaV8rCQM-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;依序輸入&lt;br&gt;各個元的值&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.30000000000000004;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="305" y="300" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xyvIUoPjEU1cUyFH0Wo2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9bqM9FualGB4ly2KAmc-0" target="xyvIUoPjEU1cUyFH0Wo2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s9bqM9FualGB4ly2KAmc-0" value="利用矩陣列運算將&lt;br&gt;第(2, 1), (3, 1), (3, 2)&lt;br&gt;化簡為0&lt;br&gt;並得出x, y, z的值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="420" width="140" height="90" as="geometry" />
+        <mxCell id="s9bqM9FualGB4ly2KAmc-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;利用矩陣列運算將&lt;br&gt;第(2, 1), (3, 1), (3, 2)&lt;br&gt;化簡為0&lt;br&gt;並得出x, y, z的值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="420" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xyvIUoPjEU1cUyFH0Wo2-2" value="輸出x, y, z的值" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="547" width="120" height="74.5" as="geometry" />
+        <mxCell id="xyvIUoPjEU1cUyFH0Wo2-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;輸出x, y, z的值&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="570" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
